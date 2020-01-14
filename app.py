@@ -1,0 +1,1 @@
+print("Je to skvělý. ")
