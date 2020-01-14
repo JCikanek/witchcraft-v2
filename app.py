@@ -6,7 +6,4 @@ print("ahoj světe")
 print("nazdarek")
 
 
-
-print("cigiho zmena")
-
 print("Je to smutný :-( ")
