@@ -1,1 +1,1 @@
-print("Je to skvělý. ")
+print("ahoj světe")
